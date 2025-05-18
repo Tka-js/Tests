@@ -1,0 +1,1 @@
+Toto jsou ukázkové testy v Cypressu. Slouží výhradně k ukázce.

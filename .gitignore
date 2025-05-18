@@ -1,0 +1,8 @@
+# Node.js standard
+node_modules/
+package-lock.json
+
+# Cypress výstupy (nepatří do repozitáře)
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
