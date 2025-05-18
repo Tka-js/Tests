@@ -4,7 +4,7 @@ import { lkq_url, seznam_url } from '../support/constants';
 describe('My tests', () => {
     it('Vyhledej text na seznamu', () => {
         cy.visit(seznam_url)
-        cy.vyhledejText('Notum Technologies')
+        cy.vyhledejText('RegioJet')
         cy.get('[type="submit"]').filter(':visible').click();
     })
 
